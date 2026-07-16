@@ -1,10 +1,10 @@
 const myprojects = [
     {
         id: 1,
-        name : "Calculator",
-        catagory : "Web Based",
-        description: "A sleek, responsive web calculator built with HTML, CSS, and JavaScript. Designed with user experience in mind, this project features a clean, modern interface and handles core arithmetic operations flawlessly across all device sizes.",
-        url: "https://danish123ch.github.io/CodeAlpha_Calculator/"
+        name : "NGO DONATION DATABASE",
+        catagory : "DataBase",
+        description: "A database system for managing donations to various NGOs, built with SQL. It allows users to track donations, manage donor information, and generate reports on donation trends. The system is designed to be user-friendly and efficient, ensuring that NGOs can easily manage their donation records.",
+        url: ""
     },
     {
         id:2,
@@ -40,6 +40,12 @@ const myprojects = [
         catagory : "Console based",
         description : "A comprehensive School Management System built in C++ that leverages core Object-Oriented Programming (OOP) concepts like inheritance, polymorphism, and encapsulation. The application cleanly separates and manages data for students, teachers, and courses, utilizing file handling for permanent data storage and a structured menu-driven interface.",
         url : "https://github.com/Danish123ch/OOP-PROJECT-SCHOOL-MANAGEMENT-SYSTEM-.git"
+    },{
+        id: 7,
+        name : "Calculator",
+        catagory : "Web Based",
+        description: "A sleek, responsive web calculator built with HTML, CSS, and JavaScript. Designed with user experience in mind, this project features a clean, modern interface and handles core arithmetic operations flawlessly across all device sizes.",
+        url: "https://danish123ch.github.io/CodeAlpha_Calculator/"
     }
 ];
 
