@@ -464,6 +464,7 @@ body {
     text-align: center;
     border-top: 1px solid rgb(230, 14, 183);
     box-shadow: 0 -4px 8px rgb(230, 14, 183);
+    background-color: rgba(0, 0, 0, 0.8);
 }
 
 .menu-icon {
@@ -529,6 +530,11 @@ body {
     .name {
         width: 100%;
         text-align: center;
+    }
+    #about-text{
+        width: 100%;
+        padding: 0;
+        margin-left: 10px
     }
 
     .skills-grid {
