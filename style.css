@@ -531,6 +531,9 @@ body {
         text-align: center;
     }
 
+    .skills-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
     .mainedu {
         flex-direction: column;
         height: auto;
